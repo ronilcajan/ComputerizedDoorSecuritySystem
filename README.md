@@ -1,4 +1,6 @@
 <h1>Computerized Door Security System</h1>
+    
+    PINcode based door lock system using GizDuino Microcontrollers.
 
 <h3>Materials</h3>
 
