@@ -50,7 +50,9 @@ Leave untouch the Pin 7,8,9,10 from the LCD and proceed to Pin 11.
     • Pin 12 from the LCD to the analog pin A3 of Gizduino.
     • Pin 13 from the LCD to the analog pin A4 of Gizduino.
     • Pin 14 from the LCD to the analog pin A5 of Gizduino.
-    • Connect Pin 15 from the LCD to the 220 ohms Resistor and the other pin of the resistor will be connected to the 5V of         GizDuino(its better if you tap it to the pin 2 of the LCD or use breadboard).
+    • Connect Pin 15 from the LCD to the 220 ohms Resistor and the other pin of the resistor 
+    will be connected to the 5V of GizDuino(its better if you tap it to the pin 2 of the LCD or 
+    use breadboard).
     • Pin 16 of the LCD to the GND of Gizduino.
     
 After the LCD connection is done.We will then connect the Potentiometer,Buzzer and Servo motor respectively.
